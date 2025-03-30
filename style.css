@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    height: 80px;
+    background-color: lightblue;
+}
+
+.center-element {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parrafo-estrecho {
+    width: 500px;
+
+}
+
+.margin {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.font {
+    font-size: 25px;
+    text-align: justify;
+}
+
+.fonth2 {
+    font-size: 35px;
+}
+
+.fonth3 {
+    font-size: 28px;
+}
